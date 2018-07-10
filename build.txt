@@ -1,0 +1,3 @@
+author = EmeraldStar82
+version = 0.1
+displayName = Emmy's Mod
